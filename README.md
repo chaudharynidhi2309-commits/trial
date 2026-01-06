@@ -1,4 +1,4 @@
 # trial
 1st trial.
 <br>
-author - nidhi chaudhary
+author - nidhi chaudhary (daiict)
